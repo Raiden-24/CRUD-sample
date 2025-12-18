@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "TOOL BOX",
+    "type": "Vessel",
+    "status": "Active",
+    "lastCleanedDate": "2003-07-24"
+  }
+]
